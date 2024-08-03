@@ -3,7 +3,7 @@
 A userscript that adds new features to https://genshin-impact-map.appsample.com/. 
 
 Current features:
-- Toggleable Batch Mark markers
+- Toggleable Batch Mark
 - Hide annoying Right Panel
 
 ## How to use
