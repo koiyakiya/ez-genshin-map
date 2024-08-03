@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         Example Script
-// @namespace    http://tampermonkey.net/
+// @name         EZ Genshin Map
+// @namespace    https://github.com/koiyakiya/ez-genshin-map
 // @version      1.0
-// @description  An example script using GM_addStyle
-// @author       Your Name
+// @description  A userscript that adds new features to https://genshin-impact-map.appsample.com/.
+// @author       koiyakiya
 // @match        https://genshin-impact-map.appsample.com/*
 // @grant        GM_addStyle
+// @license      MIT
 // ==/UserScript==
 
 (function() {
